@@ -40,6 +40,3 @@ A seguradora precisa estar atenta aos desafios operacionais - Como eu vou operac
 
 ### Links com materiais  
 Café com Especialista | Open Insurance Momentum - https://www.youtube.com/watch?v=nabnIlJoOaI  
-
-
-Continuar em 23:00 APIs Canvas
